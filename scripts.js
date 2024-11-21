@@ -10,5 +10,4 @@ function gerarNúmero(){
     numeroSortiado.innerHTML = result
 
 }
-
 botaoSorteio.addEventListener("click", gerarNúmero)
