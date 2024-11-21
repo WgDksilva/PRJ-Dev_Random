@@ -16,6 +16,6 @@
 <br>
 <div>
 <p>This project was focused on developing and learning about the JavaScript language and applications. </p>
-<img src="">
+<img src="./assets/DevSorteio.jpeg">
 
 </div>
