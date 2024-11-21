@@ -1,7 +1,6 @@
 const botaoSorteio = document.querySelector(".botao-sorteio")
 
 function gerarNúmero(){
-
     const min = Math.ceil(document.querySelector(".input-min").value)
     const max = Math.floor(document.querySelector(".input-max").value)
     const numeroSortiado =document.querySelector(".input-n-sortiado")
